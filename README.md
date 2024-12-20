@@ -1,33 +1,34 @@
-# :checkered_flag: NOME DO PROJETO
-
-Breve descrição do que o seu projeto faz.
+# :checkered_flag: Biblioteca Digital Comunitária
+É uma plataforma online que permite catalogar e disponibilizar livros e materiais de estudo para comunidades locais, estudantes e professores. O sistema oferece acesso gratuito ao acervo digital e a possibilidade de reservas de livros físicos, além de funcionalidades interativas, como avaliações e comentários. O objetivo principal é ampliar o acesso à leitura e promover a educação, criando um espaço inclusivo e colaborativo para o aprendizado e compartilhamento de conhecimento.
 
 ## :technologist: Membros da equipe
-
-Matrícula, nome e curso dos participantes.
+Antonio Avelino da Silva- 552416- SI
+Gilardo Bento da Silva- 509145 - SI
 
 ## :bulb: Objetivo Geral
-Descrever o objetivo de geral do projeto
+Criar uma biblioteca digital para catalogar livros e materiais de estudo acessíveis à comunidade.
 
 ## :eyes: Público-Alvo
-Público-alvo do projeto
+Comunidades locais, estudantes e professores.
 
 ## :star2: Impacto Esperado
-Descreva o impacto esperado do projeto em relação ao público alvo
+Ampliar o acesso à leitura e promover a educação na comunidade.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+ Visitante,Usuário Comum, administrador, Professor.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
-
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+- Funcionalidades Acessíveis a Todos os Usuários (Visitantes):
+    Navegação no Catálogo,Busca por Título, Autor ou Categoria,Visualização de Detalhes dos Livros.
+- Funcionalidades Restritas a Usuários Logados:
+    Cadastro e Criação de Conta,Reserva de Livros Físicos,Downloads de Materiais Digitais (PDF),Avaliações e Comentários.
+  - Funcionalidades Extras para Administradores:
+    Gestão de Conteúdo (Catálogo de Livros),Gestão de Reservas,Gestão de Usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Usuário,Livro,Reserva,Avaliação,Categoria,Administrador.
 
 
 ----
