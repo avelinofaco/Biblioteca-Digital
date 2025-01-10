@@ -1,68 +1,45 @@
-# :checkered_flag: Biblioteca Digital Comunitária
-É uma plataforma online que permite catalogar e disponibilizar livros e materiais de estudo para comunidades locais, estudantes e professores. O sistema oferece acesso gratuito ao acervo digital e a possibilidade de reservas de livros físicos, além de funcionalidades interativas, como avaliações e comentários. O objetivo principal é ampliar o acesso à leitura e promover a educação, criando um espaço inclusivo e colaborativo para o aprendizado e compartilhamento de conhecimento.
+                  Plataforma de Gestão de Projetos de TCC
+:checkered_flag: Plataforma de Gestão de Projetos de TCC
+Uma plataforma online que permite catalogar e disponibilizar materiais e recursos para a gestão de projetos de TCC. O sistema oferece acesso gratuito ao acervo digital e a possibilidade de reservas de recursos físicos, além de funcionalidades interativas, como avaliações e comentários. O objetivo principal é facilitar a gestão de projetos de TCC e promover a educação, criando um espaço inclusivo e colaborativo para o aprendizado e compartilhamento de conhecimento.
 
-## :technologist: Membros da equipe
-Antonio Avelino da Silva- 552416- SI
-Gilardo Bento da Silva- 509145 - SI
+:bulb: Objetivo Geral
+Criar uma plataforma digital para catalogar materiais e recursos de gestão de projetos de TCC acessíveis à comunidade acadêmica.
 
-## :bulb: Objetivo Geral
-Criar uma biblioteca digital para catalogar livros e materiais de estudo acessíveis à comunidade.
+:eyes: Público-Alvo
+Estudantes, professores e profissionais envolvidos na gestão de projetos de TCC.
 
-## :eyes: Público-Alvo
-Comunidades locais, estudantes e professores.
+:star2: Impacto Esperado
+Facilitar a gestão de projetos de TCC e promover a educação na comunidade acadêmica.
 
-## :star2: Impacto Esperado
-Ampliar o acesso à leitura e promover a educação na comunidade.
+:people_holding_hands: Papéis ou tipos de usuário da aplicação
+Visitante, Usuário Comum, Administrador, Professor.
 
-## :people_holding_hands: Papéis ou tipos de usuário da aplicação
+:triangular_flag_on_post: Principais funcionalidades da aplicação
+Funcionalidades Acessíveis a Todos os Usuários (Visitantes):
 
- Visitante,Usuário Comum, administrador, Professor.
+Navegação no Catálogo
 
-## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
-- Funcionalidades Acessíveis a Todos os Usuários (Visitantes):
-    Navegação no Catálogo,Busca por Título, Autor ou Categoria,Visualização de Detalhes dos Livros.
-- Funcionalidades Restritas a Usuários Logados:
-    Cadastro e Criação de Conta,Reserva de Livros Físicos,Downloads de Materiais Digitais (PDF),Avaliações e Comentários.
-  - Funcionalidades Extras para Administradores:
-    Gestão de Conteúdo (Catálogo de Livros),Gestão de Reservas,Gestão de Usuários.
+Busca por Título, Autor ou Categoria
 
-## :spiral_calendar: Entidades ou tabelas do sistema
+Visualização de Detalhes dos Materiais
 
-Usuário,Livro,Reserva,Avaliação,Categoria,Administrador.
+Funcionalidades Restritas a Usuários Logados:
 
+Cadastro e Criação de Conta
 
-----
+Reserva de Recursos Físicos
 
-:warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
+Downloads de Materiais Digitais (PDF)
 
+Avaliações e Comentários
 
-----
+Funcionalidades Extras para Administradores:
 
-## :desktop_computer: Tecnologias e frameworks utilizados
+Gestão de Conteúdo (Catálogo de Materiais)
 
-**Frontend:**
+Gestão de Reservas
 
-Lista as tecnologias, frameworks e bibliotecas utilizados.
+Gestão de Usuários
 
-**Backend:**
-
-Lista as tecnologias, frameworks e bibliotecas utilizados.
-
-
-## :shipit: Operações implementadas para cada entidade da aplicação
-
-
-| Entidade| Criação | Leitura | Atualização | Remoção |
-| --- | --- | --- | --- | --- |
-| Entidade 1 | X |  X  |  | X |
-| Entidade 2 | X |    |  X | X |
-| Entidade 3 | X |    |  |  |
-
-> Lembre-se que é necessário implementar o CRUD de pelo menos duas entidades.
-
-## :neckbeard: Rotas da API REST utilizadas
-
-| Método HTTP | URL |
-| --- | --- |
-| GET | api/entidade1/|
-| POST | api/entidade2 |
+:spiral_calendar: Entidades ou tabelas do sistema
+Usuário, Material, Reserva, Avaliação, Categoria, Administrador.
